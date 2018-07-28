@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "name": "Mollis consequat",
+            "price": 9,
+            "quantity": 2
+        },
+        {
+            "name": "Tvoluptatem",
+            "price": 10.32,
+            "quantity": 1
+        },
+        {
+            "name": "Scelerisque lacinia",
+            "price": 18.9,
+            "quantity": 1
+        },
+        {
+            "name": "Consectetur adipiscing",
+            "price": 28.72,
+            "quantity": 10
+        },
+        {
+            "name": "Condimentum aliquet",
+            "price": 13.9,
+            "quantity": 1
+        }
+    ],
+    "total": 348.32
+}
